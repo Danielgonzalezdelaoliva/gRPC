@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "NjqyqF0kFbd4XbH428yjXDEv3tehVnTvlse3qnLARH4MTO6Y4KjjDCK9BuqhbYtSRSn18NJabkdqMNwXuABNPw==",
+  "success": false,
+  "projectFilePath": "D:\\001 Daniel\\inicio\\Codigo\\Full stack\\gRPC\\test-services\\sample\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.aspnetcore\\2.41.0\\grpc.aspnetcore.2.41.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.aspnetcore.server\\2.41.0\\grpc.aspnetcore.server.2.41.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.41.0\\grpc.aspnetcore.server.clientfactory.2.41.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.core.api\\2.41.0\\grpc.core.api.2.41.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.net.client\\2.41.0\\grpc.net.client.2.41.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.net.clientfactory\\2.41.0\\grpc.net.clientfactory.2.41.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.net.common\\2.41.0\\grpc.net.common.2.41.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.tools\\2.41.0\\grpc.tools.2.41.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.3\\microsoft.extensions.configuration.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.3\\microsoft.extensions.configuration.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.3\\microsoft.extensions.configuration.binder.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.3\\microsoft.extensions.dependencyinjection.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.3\\microsoft.extensions.dependencyinjection.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.http\\3.0.3\\microsoft.extensions.http.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.logging\\3.0.3\\microsoft.extensions.logging.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se encuentra información del proyecto para \"D:\\001 Daniel\\inicio\\Codigo\\Full stack\\gRPC\\test-services\\sample\\Common\\Common.csproj\". Si está usando Visual Studio, puede deberse a que el proyecto no se haya cargado o no forme parte de la solución actual, por lo que debe ejecutar una restauración desde la línea de comandos. De lo contrario, puede que el archivo del proyecto no sea válido o que falten destinos necesarios para la restauración.",
+      "libraryId": "D:\\001 Daniel\\inicio\\Codigo\\Full stack\\gRPC\\test-services\\sample\\Common\\Common.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

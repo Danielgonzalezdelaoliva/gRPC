@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGxUy6OUQHlxxvsxdRCIgEyJWnnHV7i+5wFJwLL5SiGXod8BSadBAfGYJcQ5LkE6N6YsxzZOJok8IiiwY+MAog==",
+  "success": true,
+  "projectFilePath": "D:\\001 Daniel\\inicio\\Codigo\\Full stack\\gRPC\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\google.protobuf\\3.21.12\\google.protobuf.3.21.12.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.core.api\\2.51.0\\grpc.core.api.2.51.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.net.client\\2.51.0\\grpc.net.client.2.51.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.net.common\\2.51.0\\grpc.net.common.2.51.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\grpc.tools\\2.51.0\\grpc.tools.2.51.0.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\dgonzalezdelaoliva\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
